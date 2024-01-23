@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer style={footerStyle}>
-      <p> Made with ❤️ by &copy;1010varun</p>
+      <p> Made with ❤️ by &copy;saksham Jain</p>
     </footer>
   );
 };
